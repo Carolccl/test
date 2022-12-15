@@ -10,4 +10,4 @@ print("hello")
 you can use `` git init``<br/>
 
 go to [this website](https://github.com/)
-![pic](https://miro.medium.com/max/1100/1*WaaXnUvhvrswhBJSw4YTuQ.webp)
+![pic]
